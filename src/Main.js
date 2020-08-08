@@ -43,7 +43,7 @@ class Main extends Component {
       <div className="body">
         <section className="header">
           <div className="navigation">
-            <div className="anne"><Link to="/" className="active">Anne Lee</Link></div>
+            <div className="anne"><Link to="/" className="active">Omari Brown</Link></div>
             <button className="hamburger hamburger--spin mobile" type="button" onClick={this.toggleMenu}>
               <span className="hamburger-box">
                 <span className="hamburger-inner"></span>
@@ -63,10 +63,10 @@ class Main extends Component {
             </div>
           </div>
           <div className="designer">
-            Product Designer
+            Full Stack Web Developer
           </div>
           <div className="speciality">
-            UX UI / Front-End Development
+            React / Java / AWS
           </div>
         </section>
         <section className="projects">
